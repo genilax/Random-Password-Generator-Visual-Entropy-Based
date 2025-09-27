@@ -23,14 +23,6 @@ This project generates strong, dynamic passwords every second using visual entro
 
 		python main.py
 	
-## 📦 Build as Standalone .EXE (for Windows)
-
-To create a standalone executable using PyInstaller:
-
-		pip install pyinstaller
-		pyinstaller --onefile --noconsole main.py
-
-The output will be located in the `dist/` directory.
 
 ## 🧪 Screen Size & Entropy
 
