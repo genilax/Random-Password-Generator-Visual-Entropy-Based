@@ -31,6 +31,6 @@ The larger the window, the more pixel data is available, increasing the randomne
 ## 👤 Developer
 
 **Name:** İhsan  
-**GitHub:** [github.com/Ali-ihsan-Genis](https://github.com/Ali-ihsan-Genis)
+**GitHub:** [https://github.com/genilax](https://github.com/genilax)
 
 
